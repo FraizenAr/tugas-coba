@@ -11,7 +11,7 @@
         <h2>Daftar Barang</h2>
         <div style="margin-bottom: 15px;">
             <a href="dashboard.html" class="nav-link" style="margin-right: 15px;">&larr; Kembali ke Dashboard</a>
-            <a href="pegawai.php" class="nav-link">Lihat Data Pegawai &rarr;</a>
+            <a href="barang-input.php" class="nav-link">Tambah Barang &rarr;</a>
         </div>
         <table>
             <thead>
