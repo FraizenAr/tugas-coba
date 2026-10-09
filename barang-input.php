@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style3.css">
 </head>
 <body>
+    <a href="barang.php" class="nav-link" style="margin-right: 15px;">&larr; Kembali ke Daftar Barang</a>
     <form action="barang-input-aksi.php" method="POST">
         <table>
             <tr>
